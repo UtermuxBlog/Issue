@@ -8,8 +8,8 @@ assignees: ["2096779623"]
   - type: textarea
     id: description
     attributes:
-      label: Describe the bug
-      description: screenshot or log here.
+      label: "Describe the bug"
+      description: "screenshot or log here."
       placeholder: "screenshot or log here."
     validations:
       required: true
@@ -17,8 +17,8 @@ assignees: ["2096779623"]
   - type: textarea
     id: repro
     attributes:
-      label: How to reproduce
-      description: Steps to reproduce the behavior
+      label: "How to reproduce"
+      description: "Steps to reproduce the behavior"
       placeholder: |
         1.  
         2.
