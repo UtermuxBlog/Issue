@@ -10,7 +10,7 @@ assignees: ["2096779623"]
     attributes:
       label: Describe the bug
       description: screenshot or log here.
-
+      placeholder: "screenshot or log here."
     validations:
       required: true
 
