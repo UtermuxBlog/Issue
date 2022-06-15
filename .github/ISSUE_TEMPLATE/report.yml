@@ -4,6 +4,7 @@ title: "[Bug]: "
 labels: ["bug"]
 assignees: ["2096779623"]
 
+body:
 
   - type: textarea
     id: description
