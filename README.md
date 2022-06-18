@@ -3,9 +3,11 @@ Termux Mirror's Issues
 
 # CDN
 
-**[Cloudflare CDN](https://www.cloudflare.com)**: https://cf.mirrors.utermux.dev  
-**[Vercel CDN](https://vercel.com)**: https://vercel.mirrors.utermux.dev   
-**[RailWay CDN](https://railway.app)**: https://railway.mirrors.utermux.dev  
+**Cloudflare CDN**: https://cf.mirrors.utermux.dev  
+**Vercel CDN**: https://vercel.mirrors.utermux.dev   
+**RailWay CDN**: https://railway.mirrors.utermux.dev 
+
+![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=50&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=50&v=4)![railway](https://avatars.githubusercontent.com/u/66716858?s=50&v=4)
 
 # Access speed of mirrors.utermux.dev (does not represent final quality)
 
