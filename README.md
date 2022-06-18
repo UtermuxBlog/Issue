@@ -7,7 +7,7 @@ Termux Mirror's Issues
 **Vercel CDN**: https://vercel.mirrors.utermux.dev   
 **RailWay CDN**: https://railway.mirrors.utermux.dev 
 
-![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=50&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=50&v=4)![railway](https://avatars.githubusercontent.com/u/66716858?s=50&v=4)
+![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![railway](https://avatars.githubusercontent.com/u/66716858?s=100&v=4)
 
 # Access speed of mirrors.utermux.dev (does not represent final quality)
 
