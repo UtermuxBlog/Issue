@@ -1,6 +1,12 @@
 # Issue
 Termux Mirror's Issues
 
+# CDN
+
+**[Cloudflare CDN](https://www.cloudflare.com)**: https://cf.mirrors.utermux.dev  
+**[Vercel CDN](https://vercel.com)**: https://vercel.mirrors.utermux.dev   
+**[RailWay CDN](https://railway.app)**: https://railway.mirrors.utermux.dev  
+
 # Access speed of mirrors.utermux.dev (does not represent final quality)
 
 ![mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/173998697-00981bc3-8e90-429f-8254-75ebc195a48f.png)
