@@ -23,6 +23,14 @@ Termux Mirror's Issues
 
 ![vercel mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/173998815-8e049b7a-56fb-4562-b7c6-3353bcd93c36.png)
 
+# Access speed of railway.mirrors.utermux.dev (does not represent final quality)
+
+![railway mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/174469046-25249d3c-a674-4d95-a421-1cb2201b424f.png)
+
+# Access speed of netlify.mirrors.utermux.dev (does not represent final quality)
+
+![netlify mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/174469068-3d27adf0-92fc-4757-be0f-a51519341bd6.png)
+
 # LA Traceroute
 
 ![mirrors utermux dev_多地路由追踪_Tracert](https://user-images.githubusercontent.com/57583560/173998944-962112db-1fc3-44b7-9d18-3f39aae6c6b9.png)
