@@ -1,5 +1,5 @@
 # Issue
-Termux Mirror's Issues
+Org's Termux Mirror Issues
 
 # Node
 
