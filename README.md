@@ -7,6 +7,7 @@ Termux Mirror's Issues
 **Vercel**: https://vercel.mirrors.utermux.dev   
 **RailWay**: https://railway.mirrors.utermux.dev   
 **Netlify**: https://netlify.mirrors.utermux.dev  
+**CDN for chinese user**: https://cn.mirrors.utermux.dev
 
 ![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![railway](https://avatars.githubusercontent.com/u/66716858?s=100&v=4)![netlify](https://avatars.githubusercontent.com/u/7892489?s=100&v=4)
 
@@ -30,6 +31,10 @@ Termux Mirror's Issues
 # Access speed of netlify.mirrors.utermux.dev (does not represent final quality)
 
 ![netlify mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/174469068-3d27adf0-92fc-4757-be0f-a51519341bd6.png)
+
+# Access speed of cn.mirrors.utermux.dev (does not represent final quality)
+
+![image](https://user-images.githubusercontent.com/57583560/179336696-2c33aac6-6ebc-437c-80e3-9b89a71f0858.png)
 
 # LA Traceroute
 
