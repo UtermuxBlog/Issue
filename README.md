@@ -4,11 +4,9 @@ Org's Termux Mirror Issues
 # Node
 
 **Cloudflare CDN**: https://cf.mirrors.utermux.dev  
-**Vercel**: https://vercel.mirrors.utermux.dev     
-**Netlify**: https://netlify.mirrors.utermux.dev  
 **CDN for chinese user**: https://cn.mirrors.utermux.dev
 
-![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![netlify](https://avatars.githubusercontent.com/u/7892489?s=100&v=4)
+![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)
 
 # Access speed of mirrors.utermux.dev (does not represent final quality)
 
@@ -18,18 +16,6 @@ Org's Termux Mirror Issues
 # Access speed of cf.mirrors.utermux.dev (does not represent final quality)
 
 ![cf mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/173998797-b299e1cd-632b-4433-bf9d-040f6bc26545.png)
-
-# Access speed of vercel.mirrors.utermux.dev (does not represent final quality)
-
-![vercel mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/173998815-8e049b7a-56fb-4562-b7c6-3353bcd93c36.png)
-
-# Access speed of railway.mirrors.utermux.dev (does not represent final quality)
-
-![railway mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/174469046-25249d3c-a674-4d95-a421-1cb2201b424f.png)
-
-# Access speed of netlify.mirrors.utermux.dev (does not represent final quality)
-
-![netlify mirrors utermux dev_多地区多线路HTTP测速](https://user-images.githubusercontent.com/57583560/174469068-3d27adf0-92fc-4757-be0f-a51519341bd6.png)
 
 # Access speed of cn.mirrors.utermux.dev (does not represent final quality)
 
