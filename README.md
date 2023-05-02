@@ -4,7 +4,6 @@ Org's Termux Mirror Issues
 # Node
 
 **Cloudflare CDN**: https://cf.mirrors.utermux.dev  
-**CDN for chinese user**: https://cn.mirrors.utermux.dev
 
 ![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)
 
